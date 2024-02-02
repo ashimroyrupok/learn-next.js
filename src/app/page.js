@@ -9,6 +9,7 @@ const HomePage = () => {
       <div>
         <Link className='btn btn-primary' href={'/about'}> about </Link>
         <Link className='btn' href={'/contact'}>contact</Link>
+        <Link className='btn' href={'/albam'}>Albam</Link>
       </div>
       <h2>Hello Next.js</h2>
       <Counter/>
